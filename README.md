@@ -5,11 +5,10 @@ A web application for generating invoices, built using React, provides an effici
 
 ### Built With
 **[![React JS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://vercel.com/)**
+
 **[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white))](https://getbootstrap.com/)**
 
 **[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** 
-
-**[jspdf-react](https://www.npmjs.com/package/jspdf-react?activeTab=readme)** 
 
 
 ### Features
